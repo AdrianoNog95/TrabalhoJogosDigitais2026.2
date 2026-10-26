@@ -1332,6 +1332,198 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
           "name": "WorkSans-Regular.ttf"
         }
+      },
+      {
+        "file": "assets/Explosao25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosao48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosao48",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -2198,7 +2390,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao",
+                      "image": "Explosao25",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2214,27 +2406,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao2",
+                      "image": "Explosao26",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2250,27 +2442,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao3",
+                      "image": "Explosao27",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2286,27 +2478,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao4",
+                      "image": "Explosao28",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2322,27 +2514,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao5",
+                      "image": "Explosao29",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2358,27 +2550,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao6",
+                      "image": "Explosao30",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2394,27 +2586,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao7",
+                      "image": "Explosao31",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2430,27 +2622,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao8",
+                      "image": "Explosao32",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2466,27 +2658,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao9",
+                      "image": "Explosao33",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2502,27 +2694,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao10",
+                      "image": "Explosao34",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2538,27 +2730,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao11",
+                      "image": "Explosao35",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2574,27 +2766,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao12",
+                      "image": "Explosao36",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2610,27 +2802,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao13",
+                      "image": "Explosao37",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2646,27 +2838,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao14",
+                      "image": "Explosao38",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2682,27 +2874,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao15",
+                      "image": "Explosao39",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2718,27 +2910,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao16",
+                      "image": "Explosao40",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2754,27 +2946,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao17",
+                      "image": "Explosao41",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2790,27 +2982,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao18",
+                      "image": "Explosao42",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2826,27 +3018,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao19",
+                      "image": "Explosao43",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2862,27 +3054,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao20",
+                      "image": "Explosao44",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2898,27 +3090,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao21",
+                      "image": "Explosao45",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2934,27 +3126,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao22",
+                      "image": "Explosao46",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2970,27 +3162,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao23",
+                      "image": "Explosao47",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3006,27 +3198,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Explosao24",
+                      "image": "Explosao48",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3042,20 +3234,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 105
+                            "x": 88,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 105
+                            "x": 415,
+                            "y": 244
                           },
                           {
-                            "x": 166,
-                            "y": 209
+                            "x": 415,
+                            "y": 485
                           },
                           {
-                            "x": 35,
-                            "y": 209
+                            "x": 88,
+                            "y": 485
                           }
                         ]
                       ]
@@ -3667,6 +3859,16 @@
                 "<",
                 "80"
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "JogoAcabou",
+                "=",
+                "0"
+              ]
             }
           ],
           "actions": [
@@ -3712,6 +3914,16 @@
                 "AnguloCanhao",
                 ">",
                 "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "JogoAcabou",
+                "=",
+                "0"
               ]
             }
           ],
@@ -4385,6 +4597,17 @@
                 "BotaoReiniciar",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoTurno",
+                "Text",
+                "=",
+                "\"\""
+              ]
             }
           ]
         },
@@ -4509,6 +4732,17 @@
               "parameters": [
                 "BotaoReiniciar",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoTurno",
+                "Text",
+                "=",
+                "\"\""
               ]
             }
           ]
