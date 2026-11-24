@@ -62,3 +62,13 @@ DueloDeCanhoes/
     ├── fontes
     └── arquivos de áudio
 ```
+
+Capturas de tela:
+<img width="1407" height="821" alt="Captura1" src="https://github.com/user-attachments/assets/d7fcad3f-c4b0-4881-9be0-0c394908b789" />
+<img width="1435" height="817" alt="Capturar2" src="https://github.com/user-attachments/assets/80ae6667-5146-4ffc-98b2-740ef1b55980" />
+<img width="1428" height="806" alt="Capturar3" src="https://github.com/user-attachments/assets/21a5894b-5af2-4384-a738-32319c7f5e9e" />
+
+
+
+
+
